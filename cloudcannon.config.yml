@@ -91,7 +91,7 @@ timezone: Etc/UTC
 
 _snippets:
   image:
-    snippet: '{% include image.html [[arguments]] %}'
+    snippet: '{% include snippets/image.html [[arguments]] %}'
     params:
       arguments:
         parser: key_values
