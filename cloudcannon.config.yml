@@ -106,10 +106,10 @@ _snippets:
             string_boundary:
               - '"'
             root_value_delimiter: '='
-      _inputs:
-        max-width:
-          type: number
-        caption:
-          type: textarea
-        file:
-          type: image
+    _inputs:
+      max-width:
+        type: number
+      caption:
+        type: textarea
+      file:
+        type: image
