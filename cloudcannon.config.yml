@@ -111,3 +111,5 @@ _snippets:
           type: number
         caption:
           type: textarea
+        file:
+          type: image
