@@ -107,8 +107,6 @@ _snippets:
               - '"'
             root_value_delimiter: '='
     _inputs:
-      max-width:
-        type: number
       caption:
         type: textarea
       file:
