@@ -93,7 +93,7 @@ _snippets:
   image:
     snippet: '{% include image.html [[arguments]] %}'
     params:
-      args:
+      arguments:
         parser: key_values
         options:
           models:
