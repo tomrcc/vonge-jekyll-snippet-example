@@ -114,3 +114,12 @@ _snippets:
         type: textarea
       file:
         type: image
+    preview:
+      icon: image
+      text: Image
+      subtext:
+        - key: url
+        - key: alt
+        - Add image url.
+      image:
+        - key: url
